@@ -4,6 +4,9 @@ using FaceNet (in Keras). Yolov5 is used for Face Detection in an image,
 video or live feed and the detected face is cropped and then tested via
 SSD to check whether it exists in the provided database.
 
+All files including weights can be downloaded from:
+https://drive.google.com/drive/u/0/folders/1-0rY0h2wT3T2dWBA3SY3-h26AT217BH5
+
 Yolov5 Base Code
 This model is built upon a Yolov5 model that can be trained for a custom
 network. This model was paired wtih pre trained weight for Face
